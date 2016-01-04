@@ -2,4 +2,5 @@
 
 My first repository on GitHub
 
-foo bar buz
+
+:coffee: :pizza:, :dancer:.
